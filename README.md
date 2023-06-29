@@ -10,3 +10,5 @@ Some words
 ### A sub sub title
 
 Yay
+
+Making changes offline in my TextEdit app on Mac
